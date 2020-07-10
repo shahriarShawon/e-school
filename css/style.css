@@ -370,10 +370,22 @@ input:focus {
     
     .course_items .card-footer .meta span {
         font-size: 10px;
-    }
-    
-    
+    }   
 }
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    
+    .testimonial_style {
+        padding: 10px 10px;
+    }   
+}
+
+@media screen and (max-width: 575px){
+     .testimonial_style {
+        padding: 10px 10px;
+    } 
+}
+
 
 
 
