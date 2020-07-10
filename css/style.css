@@ -382,8 +382,14 @@ input:focus {
 
 @media screen and (max-width: 575px){
      .testimonial_style {
-        padding: 10px 10px;
-    } 
+        padding: 0;
+    }
+	
+	.test_description {
+    font-weight: 300;
+    color: #000;
+    margin-left: 10px;
+    }
 }
 
 
